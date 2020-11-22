@@ -5,7 +5,7 @@ const fs = require("fs");
 const ayar = require("./settings.json");
 
 client.on('ready', async () => {
-    client.user.setPresence({ activity: { name: "AETHER" }, status: "idle" });
+    client.user.setPresence({ activity: { name: "RİCHİ" }, status: "idle" });
 });
 
 const commands = new Map();
